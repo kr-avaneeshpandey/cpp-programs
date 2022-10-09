@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655374781 source:c:\users\avane\documents\c++\prog-5.8\main.cpp
+	<iostream>
+	<math.h>
+
